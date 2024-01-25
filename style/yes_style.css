@@ -3,8 +3,9 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color:  #FFFFFF; /*#F8C8DC; pink shade1 BACKGROUND*/     
+    background-color: #9A9AA8; /*#F8C8DC; pink shade1 BACKGROUND*/   
 }
+
 
 /* Position the "No" button absolutely within body */
 #noButton {
@@ -24,17 +25,17 @@ body {
     font-family: 'Nunito';
     font-size: 50px;
     font-weight: bold;
-    color: #FF0000;
+    color: #F88CF8;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
 }
 
-.header_text1 {
+.text {
     font-family: 'Nunito';
     font-size: 25px;
     font-weight: bold;
-    color: #FF6666;
+    color: #F88CF8;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
@@ -51,7 +52,7 @@ body {
 }
 
 .btn {
-    background-color: #FF6666;  /*#FFB6C1; lighter pink shade than 1 BLOKJES*/
+    background-color: #3d90e3;  /*#FFB6C1; lighter pink shade than 1 BLOKJES*/
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -65,13 +66,11 @@ body {
 }
 
 .btn:hover {
-    background-color: #3d90e3;
+    background-color: #FAF9F6;
 }
 
 .gif_container {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 90px;
 }
-
